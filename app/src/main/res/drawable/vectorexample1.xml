@@ -1,0 +1,61 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:auto="http://schemas.android.com/apk/res-auto"
+    auto:height="300dp"
+    auto:width="300dp"
+    auto:viewportHeight="600"
+    auto:viewportWidth="600"
+
+    android:height="300dp"
+    android:width="300dp"
+    android:viewportHeight="600"
+    android:viewportWidth="600">
+    <group
+        auto:name="rotation60Seconds"
+        auto:pivotX="300.0"
+        auto:pivotY="300.0"
+        auto:rotation="0.0"
+
+        android:name="rotation60Seconds"
+        android:pivotX="300.0"
+        android:pivotY="300.0"
+        android:rotation="0.0" >
+
+        <path
+
+            auto:fillColor="#FFFFFF"
+            auto:pathData = "M300 300 L320 300 L320 600 L300 600 Z"
+            android:fillColor="#FFFFFF"
+            android:pathData = "M300 300 L320 300 L320 600 L300 600 Z"
+
+              />
+    </group>
+
+    <group
+        auto:name="rotationOutterCircle"
+        auto:pivotX="50.0"
+        auto:pivotY="50.0"
+        auto:rotation="0.0"
+
+        android:name="rotationOutterCircle"
+        android:pivotX="100.0"
+        android:pivotY="50.0"
+        android:rotation="0.0" >
+
+        <path
+            auto:fillColor="#00000000"
+            auto:pathData="M50,50m-48.02,0a48.02,48.02 0,1 1,96.04 0a48.02,48.02 0,1 1,-96.04 0"
+            auto:strokeColor="#00AEEF"
+            auto:strokeWidth="1"
+
+            android:fillColor="#00000000"
+            android:pathData="M50,50m-48.02,0a48.02,48.02 0,1 1,96.04 0a48.02,48.02 0,1 1,-96.04 0"
+            android:strokeColor="#00AEEF"
+            android:strokeWidth="4"
+            />
+
+
+    </group>
+
+
+
+</vector>

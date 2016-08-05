@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:drawable="@drawable/vectorexample1"
+    tools:targetApi="21"
+    >
+
+    <target
+            android:name="rotation60Seconds"
+            android:animation="@animator/rotation"
+        />
+    <target
+        android:name="rotationOutterCircle"
+        android:animation="@animator/rotation_outer_circle"
+        />
+
+</animated-vector>

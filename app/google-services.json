@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1013759257638",
+    "firebase_url": "https://androidcomplete-4d492.firebaseio.com",
+    "project_id": "androidcomplete-4d492",
+    "storage_bucket": "androidcomplete-4d492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013759257638:android:053b8e0969acfcc6",
+        "android_client_info": {
+          "package_name": "com.example.asp.androidcomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013759257638-pdpf8n341vvg4qpj225bfs73gmr84e7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAzs4QyG7jkfIHDNnDpsAnzhSyis92Awc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
